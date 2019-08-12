@@ -1,0 +1,9 @@
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.domain\bin\Release\netstandard2.0\taxajuros.domain.deps.json
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.domain\bin\Release\netstandard2.0\taxajuros.domain.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.domain\bin\Release\netstandard2.0\taxajuros.domain.pdb
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.domain\obj\Release\netstandard2.0\taxajuros.domain.csprojAssemblyReference.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.domain\obj\Release\netstandard2.0\taxajuros.domain.csproj.CoreCompileInputs.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.domain\obj\Release\netstandard2.0\taxajuros.domain.AssemblyInfoInputs.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.domain\obj\Release\netstandard2.0\taxajuros.domain.AssemblyInfo.cs
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.domain\obj\Release\netstandard2.0\taxajuros.domain.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.domain\obj\Release\netstandard2.0\taxajuros.domain.pdb

@@ -1,0 +1,17 @@
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\obj\Debug\netcoreapp2.2\taxajuros.webapi.csprojAssemblyReference.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\obj\Debug\netcoreapp2.2\taxajuros.webapi.csproj.CoreCompileInputs.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\obj\Debug\netcoreapp2.2\taxajuros.webapi.RazorAssemblyInfo.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\obj\Debug\netcoreapp2.2\taxajuros.webapi.RazorAssemblyInfo.cs
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\obj\Debug\netcoreapp2.2\taxajuros.webapi.AssemblyInfoInputs.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\obj\Debug\netcoreapp2.2\taxajuros.webapi.AssemblyInfo.cs
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\bin\Debug\netcoreapp2.2\taxajuros.webapi.deps.json
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\bin\Debug\netcoreapp2.2\taxajuros.webapi.runtimeconfig.json
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\bin\Debug\netcoreapp2.2\taxajuros.webapi.runtimeconfig.dev.json
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\bin\Debug\netcoreapp2.2\taxajuros.webapi.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\bin\Debug\netcoreapp2.2\taxajuros.domain.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\bin\Debug\netcoreapp2.2\taxajuros.domain.pdb
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\obj\Debug\netcoreapp2.2\taxajuros.webapi.RazorTargetAssemblyInfo.cache
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\obj\Debug\netcoreapp2.2\taxajuros.webapi.csproj.CopyComplete
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\bin\Debug\netcoreapp2.2\taxajuros.webapi.pdb
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\obj\Debug\netcoreapp2.2\taxajuros.webapi.dll
+C:\Users\dycor\Documents\Dariel\softplan_teste\TaxaJuros\src\taxajuros.webapi\obj\Debug\netcoreapp2.2\taxajuros.webapi.pdb
